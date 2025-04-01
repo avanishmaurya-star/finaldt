@@ -1,0 +1,25 @@
+# Image Placeholders for MallNav Project
+
+The following images are needed for the full functionality of the project:
+
+1. logo.png - A logo for the MallNav site
+2. hero-bg.jpg - A background image for the hero section
+3. mall-map.png - An image of a mall floor plan
+4. product1.jpg through product20.jpg - Product images for the sample products
+
+Since we can't generate these images directly in this environment, when using the site:
+
+1. The logo will appear as a broken image but the site will still function
+2. The hero section will have a dark background without an image
+3. The mall map will appear as a gray box
+4. Products will have missing images
+
+To fully implement the site, you would need to:
+1. Create or find appropriate images for these placeholders
+2. Place them in the 'images' directory
+3. Ensure they match the expected filenames in the code
+
+For a real project, you would also:
+1. Optimize all images for web usage
+2. Consider using responsive image techniques
+3. Possibly implement a proper image CDN for production 
